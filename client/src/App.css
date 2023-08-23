@@ -1,0 +1,41 @@
+#img0{
+  height: 45px;
+}
+#img1{
+  height: 200px;
+  width: 200px;
+}
+
+.signin-content {
+  display: flex;
+}
+
+.signin-form {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+  padding: 35px;
+  gap: 10px;
+}
+
+.signup-content{
+  display: flex;
+  gap: 150px;
+}
+
+.form-button{
+  margin-top: 20px;
+}
+
+.home-page{
+  margin-top: 100px;
+  padding-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#profile{
+  height: 150px;
+  width: 150px;
+}
